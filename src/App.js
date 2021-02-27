@@ -1,8 +1,8 @@
 import React from 'react';
-import IterationSample from './IterationSample';
+import Counter from './hooks/Counter';
 
 function App() {
-	return <IterationSample />
+	return <Counter />
 }
 
 export default App;
