@@ -1,8 +1,8 @@
 import React from 'react';
-import ValidationSample from './ValidationSample';
+import IterationSample from './IterationSample';
 
 function App() {
-	return <ValidationSample />
+	return <IterationSample />
 }
 
 export default App;
