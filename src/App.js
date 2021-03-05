@@ -1,9 +1,9 @@
 import React from 'react';
-import Info from './hooks/Info';
+import Average from './hooks/Average';
 
 function App() {
   return (
-		<Info />
+		<Average />
   );
 }
 
