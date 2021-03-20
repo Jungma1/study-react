@@ -1,9 +1,11 @@
 import React from 'react';
-import Average from './hooks/Average';
+import TodoTemplate from './todos/components/TodoTemplate';
 
-function App() {
+const App = () => {
   return (
-		<Average />
+    <TodoTemplate>
+      Add todo!!
+    </TodoTemplate>
   );
 }
 
